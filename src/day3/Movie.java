@@ -7,5 +7,6 @@ public class Movie {
     //to continue
     //from 22 mins
 
-    //This is my awesome stuff from the master
+    //added some functionality into movie class
+    //done with tc100
 }
