@@ -6,4 +6,6 @@ public class Movie {
     //they have decided
     //to continue
     //from 22 mins
+
+    //added some functionality into movie class
 }
